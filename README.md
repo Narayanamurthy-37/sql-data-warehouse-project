@@ -73,7 +73,6 @@ sql-data-warehouse-project/
 │
 ├── datasets/            # Raw CRM and ERP CSV files
 │
-├── docs/                # Architecture, data flow, and documentation
 │
 ├── scripts/
 │   ├── bronze/          # Raw data ingestion scripts
